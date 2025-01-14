@@ -1,0 +1,8 @@
+matplotlib==3.8.4
+numpy==2.2.1
+pandas==2.2.3
+qiskit[visualization]==1.1.0
+qiskit_algorithms==0.3.0
+qiskit_machine_learning==0.7.2
+scikit_learn==1.4.2
+scipy==1.14.1
